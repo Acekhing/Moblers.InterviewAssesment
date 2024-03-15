@@ -15,3 +15,9 @@ t
 DMoblers.InterviewAssesment/Providers/LowLatencyCompressorProvider.cs,7\9\796ad9d2ea2ec46f1c9d90327a29b9d1825bf6c3
 ]
 -Moblers.InterviewAssesment/Tests/weather.http,7\9\7956f480c59f6efbe4538b692977c30e52e4260e
+_
+/Moblers.InterviewAssesment/Models/CacheEntry.cs,7\e\7eaf562a1f1b210c71f4814e4de0a5b427ad8e75
+T
+$Moblers.InterviewAssesment/ReadMe.md,d\f\df6f15cf894facfc11b26e4afb2fc36ffe3be893
+s
+CMoblers.InterviewAssesment/Middlewares/ResponseCachingMiddleware.cs,e\5\e5f4c3fb9b156727b550de07dfa3dc9ace8f3637
