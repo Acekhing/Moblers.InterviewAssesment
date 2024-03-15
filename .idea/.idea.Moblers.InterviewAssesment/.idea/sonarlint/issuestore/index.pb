@@ -1,8 +1,6 @@
 
 `
 0Moblers.InterviewAssesment/Models/ApiResponse.cs,3\a\3ae0b60abbc566463b551e8f31ed982dda9f6de7
-w
-GMoblers.InterviewAssesment/Middlewares/ResponseCompressionMiddleware.cs,6\9\6954310eed7d434fabc4a0057aa048015eeca6e7
 z
 JMoblers.InterviewAssesment/Middlewares/GlobalExceptionHandlerMiddleware.cs,6\7\6718c5da48878aacebfe8b310e4f8f196f9e322f
 r
@@ -11,3 +9,9 @@ s
 CMoblers.InterviewAssesment/Controllers/WeatherForecastController.cs,4\e\4eef32115c7478c1b06a95af83b6702484798221
 U
 %Moblers.InterviewAssesment/Program.cs,d\6\d6b2f33cd39d128c00078bc0c65a5675025117cb
+v
+FMoblers.InterviewAssesment/Middlewares/ConfigureResponseCompression.cs,d\c\dc5ec88f43b5ed9043a29926077f4f921a4095fc
+t
+DMoblers.InterviewAssesment/Providers/LowLatencyCompressorProvider.cs,7\9\796ad9d2ea2ec46f1c9d90327a29b9d1825bf6c3
+]
+-Moblers.InterviewAssesment/Tests/weather.http,7\9\7956f480c59f6efbe4538b692977c30e52e4260e

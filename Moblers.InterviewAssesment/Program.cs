@@ -15,6 +15,7 @@ app.RegisterExceptionHandler(app.Services.GetService<ILogger<MoblersApp>>() ?? t
 
 // Request Logging Middleware
 app.UseMiddleware<RequestLoggingMiddleware>();
+app.UseMiddleware<ResponseCachingMiddleware>();
 
 app.UseHttpsRedirection();
 
